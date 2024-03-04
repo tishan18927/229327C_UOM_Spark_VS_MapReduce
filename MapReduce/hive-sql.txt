@@ -1,3 +1,5 @@
+#hive
+
 CREATE TABLE IF NOT EXISTS delay_flights (
 Id INT,
 Year INT,
